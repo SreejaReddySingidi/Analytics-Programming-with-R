@@ -1,2 +1,2 @@
 # Analytics-Programming-with-R
-Analytics programming with R enables robust statistical analysis and advanced data visualization, making it easier to uncover insights and build predictive models. Its data manipulation and reporting capabilities streamline the entire analysis process.
+Employee Attrition Prediction - The report analyzes employee attrition prediction to enhance workforce planning and management. By identifying key factors affecting employee retention, it helps organizations boost engagement and productivity for long-term success.
